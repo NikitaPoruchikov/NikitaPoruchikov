@@ -18,15 +18,15 @@ Looking for opportunities to work on exciting projects, solve real-world problem
 
 ## 📫 How to reach me?
 
-- 📧 Email me at: nikita@example.com
+- 📧 Email me at: neoboom2222@gmail.com
 - 💬 Or drop me a message here on GitHub — always happy to chat!
 
 ## ⚡ Fun fact:
 
 When I'm not at the keyboard, I'm zooming down snow-covered slopes on my snowboard! 🏂 And when I'm chilling, I enjoy playing video games — a great way to unwind. 🎮
 
-![trying-to-slow-down-my-snowboard-red-bull](https://github.com/user-attachments/assets/d0dc0cbf-f2a0-4238-a06f-f87d9be90ad3)
-![trying-to-slow-down-my-snowboard-red-bull](https://github.com/user-attachments/assets/b6057012-1eca-4fb8-8ba5-e21f47163ad5)
+![trying-to-slow-down-my-snowboard-red-bull](https://tenor.com/ru/view/trying-to-slow-down-my-snowboard-red-bull-snowboarding-through-the-snow-on-my-snowboard-gif-21410838)
+
 
 ---
 
