@@ -1,4 +1,5 @@
 - 👋 Hi, I'm @NikitaPoruchikov
+- ![Coding gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 - 👀 I'm interested in backend development, cloud technologies, and turning projects into real magic! ✨
 - 🌱 I'm currently learning how to build scalable web applications using Django, Docker, and a bit of REST API magic.
 - 🚀 I'm looking to collaborate on interesting pet projects where I can solve real-world challenges. I also love working in teams!
