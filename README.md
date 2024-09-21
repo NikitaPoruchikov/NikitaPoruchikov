@@ -26,6 +26,7 @@ Looking for opportunities to work on exciting projects, solve real-world problem
 When I'm not at the keyboard, I'm zooming down snow-covered slopes on my snowboard! 🏂 And when I'm chilling, I enjoy playing video games — a great way to unwind. 🎮
 
 ![trying-to-slow-down-my-snowboard-red-bull](https://github.com/user-attachments/assets/d0dc0cbf-f2a0-4238-a06f-f87d9be90ad3)
+![trying-to-slow-down-my-snowboard-red-bull](https://github.com/user-attachments/assets/b6057012-1eca-4fb8-8ba5-e21f47163ad5)
 
 ---
 
