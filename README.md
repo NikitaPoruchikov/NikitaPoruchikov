@@ -1,6 +1,5 @@
 # 👋 Hi, I'm @NikitaPoruchikov
-
-![Cat typing gif](https://media.giphy.com/media/l3q2I8jW9W6c9xC9S/giphy.gif)
+![Coding gif](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)
 
 ## 👀 What am I about?
 
