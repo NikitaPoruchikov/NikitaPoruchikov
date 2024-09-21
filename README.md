@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @NikitaPoruchikov
 
-![Welcome gif](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
+![Cat typing gif](https://media.giphy.com/media/3o72FReZiqWqJZK3Bq/giphy.gif)
 
 ## 👀 What am I about?
 
@@ -36,7 +36,11 @@ When I'm not at the keyboard, I'm zooming down snow-covered slopes on my snowboa
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-333?style=flat&logo=sqlite)
+![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-333?style=flat&logo=django)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-333?style=flat&logo=gitlab)
 
-![Stack gif](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![Tech stack gif](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
