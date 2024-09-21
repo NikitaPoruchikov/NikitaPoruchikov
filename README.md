@@ -1,0 +1,6 @@
+- 👋 Hi, I'm @NikitaPoruchikov
+- 👀 I'm interested in backend development, cloud technologies, and turning projects into real magic! ✨
+- 🌱 I'm currently learning how to build scalable web applications using Django, Docker, and a bit of REST API magic.
+- 🚀 I'm looking to collaborate on interesting pet projects where I can solve real-world challenges. I also love working in teams!
+- 📫 How to reach me: Send me a message here on GitHub or drop an email at neoboom2222@gmail.com (I'm always happy to chat!).
+- ⚡ Fun fact: I love freeride snowboarding whenever I get the chance. 🏂
