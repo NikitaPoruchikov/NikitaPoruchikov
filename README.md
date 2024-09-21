@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @NikitaPoruchikov
 
-[![Cat typing gif](https://media.giphy.com/media/3o72FReZiqWqJZK3Bq/giphy.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Cat typing gif](https://media.giphy.com/media/l3q2I8jW9W6c9xC9S/giphy.gif)
 
 ## 👀 What am I about?
 
@@ -19,14 +19,14 @@ Looking for opportunities to work on exciting projects, solve real-world problem
 
 ## 📫 How to reach me?
 
-- 📧 Email me at: neoboom2222@gmail.com
+- 📧 Email me at: nikita@example.com
 - 💬 Or drop me a message here on GitHub — always happy to chat!
 
 ## ⚡ Fun fact:
 
 When I'm not at the keyboard, I'm zooming down snow-covered slopes on my snowboard! 🏂 And when I'm chilling, I enjoy playing video games — a great way to unwind. 🎮
 
-![Snowboarding gif](https://media.giphy.com/media/QzFVlH8jw5K4g/giphy.gif)
+![Snowboarding gif](https://media.giphy.com/media/XcZaO86HweIkI/giphy.gif)
 
 ---
 
