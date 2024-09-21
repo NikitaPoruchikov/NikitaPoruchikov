@@ -25,11 +25,12 @@ Looking for opportunities to work on exciting projects, solve real-world problem
 
 When I'm not at the keyboard, I'm zooming down snow-covered slopes on my snowboard! 🏂 And when I'm chilling, I enjoy playing video games — a great way to unwind. 🎮
 
-![Snowboarding gif](https://tenor.com/ru/view/trying-to-slow-down-my-snowboard-red-bull-snowboarding-through-the-snow-on-my-snowboard-gif-21410838)
+![trying-to-slow-down-my-snowboard-red-bull](https://github.com/user-attachments/assets/d0dc0cbf-f2a0-4238-a06f-f87d9be90ad3)
 
 ---
 
 ## 💻 My tech stack:
+
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
