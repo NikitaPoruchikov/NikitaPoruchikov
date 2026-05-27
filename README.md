@@ -3,18 +3,24 @@
 
 ## 👀 What am I about?
 
-I'm passionate about **backend development**, cloud technologies, and love turning ideas into reality! ✨ When I'm not coding, you can find me freeriding down snowy slopes on my snowboard. 🏂
+I'm passionate about **DevOps**, cloud infrastructure, automation, and building reliable, scalable systems. ✨  
+When I'm not automating deployments, you can find me freeriding down snowy slopes on my snowboard. 🏂
 
 ## 🌱 Currently learning
 
-- **Django**, **Docker**, and **REST API** — to build scalable web applications.
-- Improving my DevOps skills: managing infrastructure with **Docker Compose** and deploying projects via **CI/CD**.
+- **Kubernetes** (K8s), **ArgoCD**, **Helm** — to master GitOps and cluster management.
+- **VictoriaMetrics**, **Prometheus**, **Grafana**, **Promtail/Loki** — for robust monitoring and observability.
+- **Vault** — to handle secrets and data protection in cloud-native environments.
+- **keycloak**
+- **linstor**
+- **CI/CD**
+
 
 ![Learning gif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## 🚀 How can I help?
 
-Looking for opportunities to work on exciting projects, solve real-world problems, and collaborate with amazing teams. I enjoy working on API development and deploying projects in the cloud. 🤝
+Looking for opportunities to design and maintain CI/CD pipelines, manage infrastructure as code, set up monitoring stacks, and improve system reliability. I enjoy automating everything and collaborating with teams to streamline deployments. 🤝
 
 ## 📫 How to reach me?
 
@@ -27,21 +33,21 @@ When I'm not at the keyboard, I'm zooming down snow-covered slopes on my snowboa
 
 ![My custom gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlzMnE0b3FkOWc3dzJsd2lmdXg0cXBoNGZ6MGltb2t6c2gxYTB2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwDADPpARgfykDu/giphy.webp)
 
-
 ---
 
 ## 💻 My tech stack:
 
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-333?style=flat&logo=argo)
+![Helm](https://img.shields.io/badge/-Helm-333?style=flat&logo=helm)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-333?style=flat&logo=sqlite)
-![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![Vault](https://img.shields.io/badge/-Vault-333?style=flat&logo=vault)
+![VictoriaMetrics](https://img.shields.io/badge/-VictoriaMetrics-333?style=flat&logo=victoriametrics)
+![Prometheus](https://img.shields.io/badge/-Prometheus-333?style=flat&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-333?style=flat&logo=grafana)
+![Loki](https://img.shields.io/badge/-Loki-333?style=flat&logo=grafana)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-333?style=flat&logo=django)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-333?style=flat&logo=gitlab)
 
 ![Tech stack gif](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
